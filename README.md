@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, หวัดดี 👋
 
 <!--
 **izepb/izepb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a Senior Computational Scientist in Exscientia 
+- 🌱 I'm interested in all things graph - and its various application to biomedical domain
+- 📫 How to reach me: email! {my last name}[at]icloud.com
+- 😄 Name pronunciation: "ice", yeah cool right?
