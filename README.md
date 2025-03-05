@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Senior Computational Scientist in Exscientia 
+- 🔭 I’m a Principal Scientist at GraphTx 
 - 🌱 I'm interested in all things graph - and its various application to biomedical domain
 - 📫 How to reach me: email! {my last name}[at]icloud.com
 - 😄 Name pronunciation: "ice", yeah cool right?
